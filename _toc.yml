@@ -4,6 +4,7 @@
 format: jb-book
 root: intro
 chapters:
+- file: chapters/01-motivation
 - file: markdown
 - file: notebooks
 - file: markdown-notebooks
