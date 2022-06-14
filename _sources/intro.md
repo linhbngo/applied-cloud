@@ -1,11 +1,18 @@
-# Welcome to your Jupyter Book
+# Preface
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+This book ppresents a comprehensive introduction to cloud 
+computing from an applied perspective. It discusses to some extent the 
+underlying historical and theoretical foundations of cloud computing. 
+Furthermore, the design, development, and deployment of several cloud 
+deployment projects are discussed to showcase how these knowledge and 
+technologies can be applied in relatively realistic scenarios. Hands-on
+activities are provided to that readers can replicate these tasks. These 
+projects are motivated by projects that CSC486 students developed. 
 
-Check out the content pages bundled with this sample book to see more.
+The above-mentioned projects are developed and tested using a M1 Mac Air
+with 16 GB of memory. *In theory*, it is possible to do everything on a 
+slightly weaker computer running on Windows. 
+
 
 ```{tableofcontents}
 ```

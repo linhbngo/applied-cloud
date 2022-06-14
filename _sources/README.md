@@ -1,1 +1,1 @@
-# applied-cloud
+This is a repository for a book on Cloud Computing
