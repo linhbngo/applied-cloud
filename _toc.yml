@@ -3,8 +3,19 @@
 
 format: jb-book
 root: intro
-chapters:
-- file: chapters/01-motivation
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+
+parts:
+- caption: Introduction
+  chapters:
+  - file: chapters/introduction/motivation
+    sections:
+    - file: chapters/introduction/design-implementation
+    - file: chapters/introduction/deployment-prototype
+    - file: chapters/introduction/deployment-production
+    - file: chapters/introduction/full-production
+  - file: chapters/why-cloud/the-answer
+- caption: Virtualization
+  chapters:
+  - file: markdown
+  - file: notebooks
+  - file: markdown-notebooks

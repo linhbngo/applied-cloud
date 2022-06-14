@@ -2,8 +2,8 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: Introduction to Cloud Computing
-author: Linh B. Ngos
-logo: logo.png
+author: Linh B. Ngo
+#logo: logo.png
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
@@ -30,3 +30,10 @@ repository:
 html:
   use_issues_button: true
   use_repository_button: true
+  extra_footer:
+    <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"></a>
+    <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Introduction to Cloud Computing</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+
+sphinx:
+  config:
+    html_show_copyright: false
