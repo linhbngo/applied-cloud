@@ -14,6 +14,10 @@ parts:
     - file: chapters/introduction/deployment-production
     - file: chapters/introduction/full-production
   - file: chapters/why-cloud/the-answer
+    sections:
+    - file: chapters/why-cloud/characteristics
+    - file: chapters/why-cloud/service-models
+    - file: chapters/why-cloud/deployment-models
 - caption: Virtualization
   chapters:
   - file: markdown

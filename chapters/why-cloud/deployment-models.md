@@ -1,5 +1,7 @@
-# Cloud computing is the answer
+# Deployment models
 
+
+## What is Cloud Computing?
 
 Cloud computing is a somewhat loaded term. In a naive interpretation, anything 
 that provides computing-related services and is not physically hosted or aware of 
@@ -18,4 +20,6 @@ This cloud model is composed of:
 - Three service models
 - Four deployment models
 ```
+
+## What services does Cloud offer?
 

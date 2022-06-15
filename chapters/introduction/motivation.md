@@ -9,7 +9,3 @@ Time is of the essence. You want to get your product live as soon as possible
 to capture the market and attract the attention of investors. Long gone are 
 the days where one needs to spending time getting a garage operation going. 
 At this day and age, cloud is the way to go. 
-
-
-```{tableofcontents}
-```
