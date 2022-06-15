@@ -20,6 +20,8 @@ the same thing: **computing power**.
 
 ## On-demand self-service
 
+
+
 ## Broad network access
 
 ## Resource pooling
